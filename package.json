@@ -1,0 +1,10 @@
+{
+  "name": "proteus-doctor",
+  "version": "0.1.0",
+  "description": "Checks a computer for everything the Proteus video factory needs, and prints the exact fix for each missing piece.",
+  "bin": { "proteus-doctor": "bin/proteus-doctor.js" },
+  "files": ["bin"],
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "https://github.com/nam925/proteus-doctor" },
+  "license": "MIT"
+}
